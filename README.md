@@ -12,9 +12,11 @@ This is a simple password generator application built using React. It allows use
 - [Contributing](#contributing)
 - [License](#license)
 
+
 ## Demo
 
-You can see a live demo of the application [here](#) (Replace with your live demo link).
+You can see a live demo of the application [here](https://password-art.netlify.app).
+
 
 ## Features
 
